@@ -20,9 +20,9 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+          <a href="/test" className={styles.card}>
+            <h3>API test &rarr;</h3>
+            <p> Voir les endpoints de strapi en action </p>
           </a>
 
           <a href="" className={styles.card}>
